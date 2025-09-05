@@ -8,6 +8,7 @@
 - Autosuggestions - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - Syntax highlighting - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - Smarter `cd` command - [zoxide](https://github.com/ajeetdsouza/zoxide)
+- Dev tools (version manager, env loader, task runner) - [mise](https://github.com/jdx/mise)
 
 my [.zshrc](./.zshrc)
 
